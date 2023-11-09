@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MarsAir_Automate_/MarsAir_Automate_.iml" filepath="$PROJECT_DIR$/MarsAir_Automate_/MarsAir_Automate_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MarsAir_Automation.iml" filepath="$PROJECT_DIR$/.idea/MarsAir_Automation.iml" />
+    </modules>
+  </component>
+</project>
