@@ -1,0 +1,25 @@
+Page Title: Coach: My Account
+
+
+====================================================================================
+dropDeparting          xpath      //*[@id="departing"]
+dropReturning          xpath     //*[@id="returning"]
+boxPromo               xpath     //*[@id="promotional_code"]
+submitSearch           xpath    //input[@type='submit']
+book_ticket            xpath    //h3['Book a ticket to the red planet now!']
+welcome_text           xpath    //h2['Welcome to MarsAir!']
+departText             xpath    //label['Departing']
+returnText             xpath    //label['Returning']
+promoCode              xpath    //label['Promotional Code']
+dropdown               xpath    //*[@id='$value']/option[text()='$value']
+promotional            xpath    //p[text='Promotional code']
+promocode              xpath    //tt[text()='$value']
+percentage             xpath    //strong[text()='$value']
+sorry                  xpath    //p[@class='promo_code']/text()[1]
+notValid               xpath    //p[@class='promo_code']/text()[2]
+backButton             xpath    //a[text()=' Back']
+MarsAirlogo            xpath    //a[text()=' MarsAir']
+notavailable           xpath    //p[text()='Sorry, there are no more seats available.']
+available              xpath    //p[text()='Call now on 0800 MARSAIR to book!']
+searchResults          xpath    //h2[text()='Search Results']
+schedule               xpath    //p[text()='Unfortunately, this schedule is not possible. Please try again.']
